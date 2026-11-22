@@ -60,27 +60,8 @@ Goal: Building creative and useful digital experiences
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rezabhi&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0221&title_color=C084FC&icon_color=BD00FF&text_color=E9D5FF" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezabhi&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0221&title_color=C084FC&text_color=E9D5FF" />
-
-<br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=Rezabhi&theme=midnight-purple&hide_border=true&background=0D0221&ring=BD00FF&fire=C084FC&currStreakLabel=C084FC" />
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Rezabhi-181717?style=for-the-badge&logo=github)](https://github.com/Rezabhi)
 
 </div>
 
