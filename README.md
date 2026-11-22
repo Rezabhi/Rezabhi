@@ -60,13 +60,6 @@ Goal: Building creative and useful digital experiences
 
 ---
 
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Rezabhi&theme=midnight-purple&hide_border=true&background=0D0221&ring=BD00FF&fire=C084FC&currStreakLabel=C084FC" />
-
-</div>
-
----
-
 <div align="center">
 
 ### 💜 Thanks for visiting my profile!
