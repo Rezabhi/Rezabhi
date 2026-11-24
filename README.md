@@ -62,7 +62,7 @@ Goal: Building creative and useful digital experiences
 
 <div align="center">
 
-### 💜 Thanks for visiting my profile!
+### 💜 Thanks for visiting my profile!!
 
 **"Code. Create. Innovate. Repeat."**
 
